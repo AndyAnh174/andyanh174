@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ho Viet Anh</h1>
-<h3 align="center">I'm front-end developer, hacking from VietNam</h3>
+<h3 align="center">Full-stack Developer · AI Enthusiast · DevOps &amp; Linux Lover from Viet&nbsp;Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyanh174&label=Profile%20views&color=0e75b6&style=flat" alt="andyanh174" /> </p>
 
