@@ -4,7 +4,7 @@
   <img src="https://demoapi.andyanh.id.vn/static/images/uploads/9ee4c471-bf1b-4171-ae51-fa49be5511ae.gif" width="150"/>
 </div>
 <h3 align="center">
-  <b>Founder & Leader</b> tại <a href="https://www.facebook.com/hcmute.rtic" target="_blank">HCM UTE Research on Technology and Innovation Club</a>
+  <b>Founder & Leader</b> at <a href="https://www.facebook.com/hcmute.rtic" target="_blank">HCM UTE Research on Technology and Innovation Club</a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyanh174&label=Profile%20views&color=0e75b6&style=flat" alt="andyanh174" /> </p>
